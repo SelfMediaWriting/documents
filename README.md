@@ -36,9 +36,11 @@
 布置下一阶段任务：
 |  任务   | 负责人 | DDL 
 |  ----  | ----  | ----
-| 系统菜单 | lcy | 10.31
-| 系统输出 | ljb | 10.31
-| 原型  | wn、dsq | - 
+| Status transition图 | wn | 10.23
+| Sequence图  | dsq | 10.23
+| Use Case图 | lch | 10.23
+| Class图 | ljb | 10.31
+| 问题陈述、系统划分 | lcy | 10.23
 
 ----
 ## 第二次组会 10.29
@@ -48,10 +50,13 @@
 确定各组员任务完成情况：全部完成
 
 布置下一阶段任务：
+
 |  任务   | 负责人 | DDL 
 |  ----  | ----  | ----
-| Status transition图 | wn | 10.23
-| Sequence图  | dsq | 10.23
-| Use Case图 | lch | 10.23
-| 性能设计 | lcy | 10.23
+| Use Case图（完善） | lch | 10.31
+| Status transition图（完善） | wn | 10.31
+| Sequence图（完善）| dsq | 10.31
+| Class图（完善） | ljb | 10.31
+| 系统菜单 | lcy | 10.31
+| 系统输出 | ljb | 10.31
 | 原型  | wn、dsq | - 
